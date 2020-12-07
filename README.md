@@ -1,6 +1,6 @@
-# React Typescript Template
+# React JS Template
 
-React Typescript Project Boilerplate
+React JS Project Boilerplate
 
 ## Get Started
 
