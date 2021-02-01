@@ -18,9 +18,15 @@ React JS Project Boilerplate
 
 `yarn test`
 
+## Build
+
+> Build the site into `build` folder
+
+`yarn build`
+
 ## Eslint
 
-> Uses **Airbnb Base** configs
+> Extend **react-app** configs & **react-app/jest** configs
 
 > Check for the linting errors
 
