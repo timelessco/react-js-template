@@ -26,7 +26,8 @@
     "eject": "react-scripts eject",
     "format": "prettier --write \"*.{js,ts,css,less,json,md,html,yml,yaml,pcss,jsx,tsx}\"",
     "format:package": "sort-package-json",
-    "lint": "eslint src --ext .tsx,.ts,.jsx,.js",
+    "lint": "eslint . --ext .tsx,.ts,.jsx,.js",
+    "lint:fix": "eslint . --ext .tsx,.ts,.jsx,.js --fix",
     "start": "react-scripts start",
     "test": "react-scripts test"
   },
